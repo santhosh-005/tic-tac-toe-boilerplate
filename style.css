@@ -37,7 +37,14 @@ h1{
     background-color: white;
     border-radius: 10px;
     box-shadow : 2px 2px Silver ;
+
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-size: 60px;
+    color:#FAB201;
 }
+
 
 p{
     text-align: center;
